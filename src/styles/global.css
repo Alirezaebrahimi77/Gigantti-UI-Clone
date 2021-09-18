@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .headerLink {
+        @apply text-sm text-gray-600 mx-2 my-2 cursor-pointer;
+    }
+}
