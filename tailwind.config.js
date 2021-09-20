@@ -6,7 +6,8 @@ module.exports = {
       colors:{
         'gigYellow': '#FFF000',
         'gigPink': '#E82F8A',
-        'gigGreen': '#88D000'
+        'gigGreen': '#88D000',
+        'gigBlue': '#11175E'
       },
       keyframes: {
         wiggle: {
