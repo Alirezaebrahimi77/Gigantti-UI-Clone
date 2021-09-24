@@ -1,4 +1,4 @@
-# React app cloning Gigantti.fi UI
+# React App Cloning Gigantti.fi UI
 I still work on this porject...
 
 # Demo link:
