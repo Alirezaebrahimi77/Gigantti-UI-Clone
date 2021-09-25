@@ -67,12 +67,9 @@ function Main() {
                     <div className="hover:opacity-80 cursor-pointer m-2"><img src={miniBanner5} alt="" /></div>
                     
                 </section>
-
-
                 <section className="px-2">
                     <img src={middleBigBanner} alt="" />
                 </section>
-
                 <section className="mx-2 my-2 h-scree flex flex-col md:flex-row flex-wrap">
                     {productData.map((item) => (
                         <Product
