@@ -24,6 +24,7 @@ function Footer() {
             </Link>
             {usefulData.map((item) => (
               <Link to={item.path}>
+                
                 <p className="text-sm leading-7 hover:opacity-30 hover:underline py-2 border-b-2 border-gray-300 pl-5 md:border-none">
                   {item.name}
                 </p>
