@@ -9,6 +9,7 @@ function FooterCard({img, text}) {
                 </div>
                 <p className="text-sm underline group-hover:no-underline">{text}</p> 
             </a>
+            
         </div>
     )
 }

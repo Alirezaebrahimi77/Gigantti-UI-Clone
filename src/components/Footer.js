@@ -59,7 +59,6 @@ function Footer() {
           </div>
         </div>
       </div>
-
       <div className="flex justify-center w-full bg-white mt-5 py-5 px-3">
         <div className="flex justify-between w-full md:w-auto">
             {socialData.map(item => (
@@ -72,6 +71,7 @@ function Footer() {
             ))}
         </div>
       </div>
+      
       <div className="bg-gigBlue text-white text-center py-5 md:py-4">
           <p className="text-sm">©2021 Gigantti. Kaikki oikeudet pidätetään. Asiakaspalvelu puh: 020-321321 (8,4snt/min).</p>
       </div>
