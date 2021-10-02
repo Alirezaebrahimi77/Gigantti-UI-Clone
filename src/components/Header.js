@@ -19,7 +19,6 @@ function Header() {
 
     const makeWide = () =>{
         setWideSearch(!wideSearch);
-
     }
   return (
     <header className="border-b-2">
@@ -62,6 +61,7 @@ function Header() {
          
         </div>
       </div>
+      
     </header>
   );
 }
